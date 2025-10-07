@@ -38,7 +38,7 @@ evaluation: stores grades and evaluation data
 
 HistoriqueEvaluation: keeps a history of grade changes or deletions
 
-Triggers Implemented
+* Triggers Implemented
 
 check_age → prevents inserting a trainee under 18 years old
 
